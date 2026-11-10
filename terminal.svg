@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380" role="img" aria-label="Terminal: whoami Eternal Student. Goal: Red Team Operator. Studying: Active Directory, Exploit development, Malware analysis.">
+  <rect x="1" y="1" width="798" height="378" rx="8" fill="#0b0407" stroke="#802000" stroke-width="2"/>
+  <rect x="1" y="1" width="798" height="34" rx="8" fill="#16060a"/>
+  <rect x="1" y="26" width="798" height="9" fill="#16060a"/>
+  <circle cx="24" cy="18" r="6" fill="#d81f26"/>
+  <circle cx="46" cy="18" r="6" fill="#802000"/>
+  <circle cx="68" cy="18" r="6" fill="#3a1015"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="16" xml:space="preserve">
+    <text x="24" y="66"><tspan fill="#d81f26">guisosi@void</tspan><tspan fill="#b9a9a9">:~$ </tspan><tspan fill="#f2e9e9">whoami</tspan></text>
+    <text x="24" y="88" fill="#ff5a4a">Eternal Student</text>
+
+    <text x="24" y="132"><tspan fill="#d81f26">guisosi@void</tspan><tspan fill="#b9a9a9">:~$ </tspan><tspan fill="#f2e9e9">cat goal.txt</tspan></text>
+    <text x="24" y="154" fill="#b9a9a9"><tspan fill="#802000">&gt; </tspan>Red Team Operator</text>
+    <text x="24" y="176" fill="#b9a9a9"><tspan fill="#802000">&gt; </tspan>simulating adversaries in authorized environments, end to end</text>
+
+    <text x="24" y="220"><tspan fill="#d81f26">guisosi@void</tspan><tspan fill="#b9a9a9">:~$ </tspan><tspan fill="#f2e9e9">cat studying.txt</tspan></text>
+    <text x="24" y="242" fill="#b9a9a9"><tspan fill="#802000">&gt; </tspan>Active Directory</text>
+    <text x="24" y="264" fill="#b9a9a9"><tspan fill="#802000">&gt; </tspan>Exploit development</text>
+    <text x="24" y="286" fill="#b9a9a9"><tspan fill="#802000">&gt; </tspan>Malware analysis</text>
+
+    <text x="24" y="330"><tspan fill="#d81f26">guisosi@void</tspan><tspan fill="#b9a9a9">:~$ </tspan><tspan fill="#f2e9e9">ls published/</tspan></text>
+    <text x="24" y="352" fill="#ff5a4a">PoCs/  tools/  write-ups/</text>
+  </g>
+</svg>
