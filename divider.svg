@@ -1,11 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="divisor">
-  <defs>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#802000" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#d81f26"/>
-      <stop offset="1" stop-color="#802000" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="11" width="1200" height="2" fill="url(#line)"/>
-  <circle cx="600" cy="12" r="7" fill="#050102" stroke="#d81f26" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 24" width="800" height="24" aria-hidden="true">
+  <polyline fill="none" stroke="#d81f26" stroke-width="1.5" stroke-linejoin="round" points="0,12 360,12 372,12 378,4 386,21 394,1 402,18 408,12 420,12 800,12"/>
 </svg>
